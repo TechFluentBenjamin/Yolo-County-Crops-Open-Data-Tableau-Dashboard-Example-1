@@ -1,0 +1,26 @@
+ --- macOS System Files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
+# --- Code Editors ---
+.vscode/
+.idea/ (for JetBrains/IntelliJ)
+
+# --- Languages/Frameworks ---
+node_modules/
+__pycache__/
+venv/
+dist/
+build/
+
+# --- Secrets & Environment ---
+.env
+*.log
+
